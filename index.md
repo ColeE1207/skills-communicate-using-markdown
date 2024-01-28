@@ -8,3 +8,6 @@ if (number > 5) {
   number = 0
 }
 ```
+- [x] Eat lunch
+- [ ] Sleep
+- [ ] Finish work
